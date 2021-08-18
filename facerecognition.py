@@ -5,7 +5,8 @@ from keras.layers import MaxPooling2D
 from keras.layers import Flatten
 from keras.layers import Dense
 
-#my name is XYZ
+#my name is ABC
+
 
 # Model Creation
 classifier = Sequential()
